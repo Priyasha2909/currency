@@ -26,4 +26,4 @@ This Chrome extension allows users to quickly convert between different currenci
 3. Enter the amount and select the currencies you want to convert from and to.
 4. The converted amount will be displayed instantly.
 
-**Live Version :-** https://priyasha2909.github.io/currency_converter/
+**Live Version :-** https://priyasha2909.github.io/currency/
